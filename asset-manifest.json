@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/amico-pro/static/css/main.f2bba2dc.css",
-    "main.js": "/amico-pro/static/js/main.35e46ba3.js",
+    "main.css": "/amico-pro/static/css/main.bf7f6a47.css",
+    "main.js": "/amico-pro/static/js/main.9d6a0583.js",
     "static/media/zakuski.png": "/amico-pro/static/media/zakuski.fd6fac591d127df10069.png",
     "static/media/cezar.png": "/amico-pro/static/media/cezar.fe8d77ec0eac4fb1cbdb.png",
     "static/media/pizza.png": "/amico-pro/static/media/pizza.98c3c898338f4618275b.png",
     "static/media/zeytun.png": "/amico-pro/static/media/zeytun.6201523f7d4e930ac4fd.png",
     "static/media/msexen.png": "/amico-pro/static/media/msexen.615a64982ffb3f2111a5.png",
     "static/media/asortipizza.png": "/amico-pro/static/media/asortipizza.fc186e9e9d3c5b4e1096.png",
+    "static/media/xarcho.png": "/amico-pro/static/media/xarcho.60e7b3610fe4db1aabfc.png",
     "static/media/cola.png": "/amico-pro/static/media/cola.73f5e2fdea0fea3e9650.png",
     "static/media/borsh.png": "/amico-pro/static/media/borsh.3b04ba16923e3a1836cb.png",
     "static/media/hunakan.png": "/amico-pro/static/media/hunakan.d7f81949df472ba469e2.png",
@@ -91,7 +92,6 @@
     "static/media/arax.png": "/amico-pro/static/media/arax.034049c6c18624594ee9.png",
     "static/media/burger.jpeg": "/amico-pro/static/media/burger.0a151eece0fb6fc91e9d.jpeg",
     "static/media/freshkivi.jpg": "/amico-pro/static/media/freshkivi.76f8dbf5a5869e22c678.jpg",
-    "static/media/xarcho.png": "/amico-pro/static/media/xarcho.cb2efb3dc6dfcd78c5d6.png",
     "static/media/vermunt.png": "/amico-pro/static/media/vermunt.3d9a19c769e01ae3abe3.png",
     "static/media/freshbanan.webp": "/amico-pro/static/media/freshbanan.f18919917280256f9e17.webp",
     "static/media/freshgazar.jpg": "/amico-pro/static/media/freshgazar.d5dfd84b81970c30053f.jpg",
@@ -101,11 +101,11 @@
     "static/media/slick.ttf": "/amico-pro/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/amico-pro/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amico-pro/index.html",
-    "main.f2bba2dc.css.map": "/amico-pro/static/css/main.f2bba2dc.css.map",
-    "main.35e46ba3.js.map": "/amico-pro/static/js/main.35e46ba3.js.map"
+    "main.bf7f6a47.css.map": "/amico-pro/static/css/main.bf7f6a47.css.map",
+    "main.9d6a0583.js.map": "/amico-pro/static/js/main.9d6a0583.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2bba2dc.css",
-    "static/js/main.35e46ba3.js"
+    "static/css/main.bf7f6a47.css",
+    "static/js/main.9d6a0583.js"
   ]
 }
