@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amico-pro/static/css/main.969e605e.css",
-    "main.js": "/amico-pro/static/js/main.faee0131.js",
+    "main.js": "/amico-pro/static/js/main.b3c060f8.js",
     "static/media/zakuski.png": "/amico-pro/static/media/zakuski.fd6fac591d127df10069.png",
     "static/media/cezar.png": "/amico-pro/static/media/cezar.fe8d77ec0eac4fb1cbdb.png",
     "static/media/pizza.png": "/amico-pro/static/media/pizza.98c3c898338f4618275b.png",
@@ -102,10 +102,10 @@
     "static/media/slick.woff": "/amico-pro/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amico-pro/index.html",
     "main.969e605e.css.map": "/amico-pro/static/css/main.969e605e.css.map",
-    "main.faee0131.js.map": "/amico-pro/static/js/main.faee0131.js.map"
+    "main.b3c060f8.js.map": "/amico-pro/static/js/main.b3c060f8.js.map"
   },
   "entrypoints": [
     "static/css/main.969e605e.css",
-    "static/js/main.faee0131.js"
+    "static/js/main.b3c060f8.js"
   ]
 }
