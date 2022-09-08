@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/amico-pro/static/css/main.10215461.css",
-    "main.js": "/amico-pro/static/js/main.f7ce51ba.js",
+    "main.css": "/amico-pro/static/css/main.74b728c9.css",
+    "main.js": "/amico-pro/static/js/main.4ac9a457.js",
     "static/media/zakuski.png": "/amico-pro/static/media/zakuski.fd6fac591d127df10069.png",
     "static/media/cezar.png": "/amico-pro/static/media/cezar.fe8d77ec0eac4fb1cbdb.png",
     "static/media/zeytun.png": "/amico-pro/static/media/zeytun.6201523f7d4e930ac4fd.png",
     "static/media/msexen.png": "/amico-pro/static/media/msexen.615a64982ffb3f2111a5.png",
+    "static/media/amicopizza.png": "/amico-pro/static/media/amicopizza.d5c8ef1698f4a90b3f29.png",
+    "static/media/siciliapizza.png": "/amico-pro/static/media/siciliapizza.6ddffb45a90625a08b48.png",
     "static/media/asortipizza.png": "/amico-pro/static/media/asortipizza.fc186e9e9d3c5b4e1096.png",
     "static/media/xarcho.png": "/amico-pro/static/media/xarcho.60e7b3610fe4db1aabfc.png",
     "static/media/cola.png": "/amico-pro/static/media/cola.73f5e2fdea0fea3e9650.png",
@@ -17,6 +19,7 @@
     "static/media/garnir.png": "/amico-pro/static/media/garnir.80b81aeb807dfe621e10.png",
     "static/media/amarayin.png": "/amico-pro/static/media/amarayin.6b575025f38f6baa4841.png",
     "static/media/salat.png": "/amico-pro/static/media/salat.a264405e64cfdca0e91f.png",
+    "static/media/vichinapizza.png": "/amico-pro/static/media/vichinapizza.7502fc0259f085d7750c.png",
     "static/media/primavera.png": "/amico-pro/static/media/primavera.acfffc8455c404171ee7.png",
     "static/media/freshklubnik.png": "/amico-pro/static/media/freshklubnik.57f9f719119c71512696.png",
     "static/media/viski.png": "/amico-pro/static/media/viski.b871f7e5ebd5b75547d5.png",
@@ -28,11 +31,13 @@
     "static/media/kanachi.png": "/amico-pro/static/media/kanachi.df42aef025e236a08239.png",
     "static/media/kartolplech.png": "/amico-pro/static/media/kartolplech.30ee20f4de7c57812087.png",
     "static/media/havkatlet.jpeg": "/amico-pro/static/media/havkatlet.65e718bcdd39980cd67d.jpeg",
+    "static/media/basturmapizza.png": "/amico-pro/static/media/basturmapizza.693d05a68836cdb471aa.png",
     "static/media/jin.png": "/amico-pro/static/media/jin.ee78938e4e1779fbd1a2.png",
     "static/media/garixorovac.png": "/amico-pro/static/media/garixorovac.00868a2353c23210ce00.png",
     "static/media/piti.png": "/amico-pro/static/media/piti.392b019a354b5bc44878.png",
     "static/media/spas.png": "/amico-pro/static/media/spas.b6061b6722f71c38a663.png",
     "static/media/fri.png": "/amico-pro/static/media/fri.cc7701e18330d7b0c997.png",
+    "static/media/koridapizza.png": "/amico-pro/static/media/koridapizza.4a9a0d870bf2dba515a3.png",
     "static/media/alkohol.png": "/amico-pro/static/media/alkohol.4098cecd5dd1ed0e3584.png",
     "static/media/amicologo.png": "/amico-pro/static/media/amicologo.9949fd2bde7865074064.png",
     "static/media/tekila.png": "/amico-pro/static/media/tekila.8fa4ae5e42c622fa2b73.png",
@@ -48,7 +53,6 @@
     "static/media/img1.jpg": "/amico-pro/static/media/img1.9a9a30a8a7dd3d71547c.jpg",
     "static/media/img3.jpg": "/amico-pro/static/media/img3.d6159f3558ac3b79aff0.jpg",
     "static/media/img2.jpg": "/amico-pro/static/media/img2.6149c9b82ac992c6bb61.jpg",
-    "static/media/amicopizza.jpg": "/amico-pro/static/media/amicopizza.f28cf5da3d87f13f83ad.jpg",
     "static/media/cvacexlolikov.png": "/amico-pro/static/media/cvacexlolikov.8b9525598542b59088cc.png",
     "static/media/kuatropizza.png": "/amico-pro/static/media/kuatropizza.a51b49547dc749975dc3.png",
     "static/media/freshxndzorkivi.jfif": "/amico-pro/static/media/freshxndzorkivi.ce40c22b55c7846e58f5.jfif",
@@ -61,14 +65,10 @@
     "static/media/havqyabab.png": "/amico-pro/static/media/havqyabab.814e408200463457175f.png",
     "static/media/tavarkatlet.jpg": "/amico-pro/static/media/tavarkatlet.b02880a8c1a1f90fe57d.jpg",
     "static/media/freshlimon.png": "/amico-pro/static/media/freshlimon.fbbeb3cfe6e1db82a93d.png",
-    "static/media/vichinapizza.jpg": "/amico-pro/static/media/vichinapizza.a7c898031055cae99275.jpg",
     "static/media/tavarixorovac.png": "/amico-pro/static/media/tavarixorovac.1fd074c2e8b28cbc9819.png",
     "static/media/havfri.jpg": "/amico-pro/static/media/havfri.8f5dd61bfff94e862200.jpg",
-    "static/media/siciliapizza.jpg": "/amico-pro/static/media/siciliapizza.bd61a1347ad5afabacad.jpg",
-    "static/media/basturmapizza.jpg": "/amico-pro/static/media/basturmapizza.8885943e5353a41befca.jpg",
     "static/media/tavarqyabab.png": "/amico-pro/static/media/tavarqyabab.285cf80f84d17677d750.png",
     "static/media/ishxanxorovac.jpg": "/amico-pro/static/media/ishxanxorovac.638165ea94f5717e7379.jpg",
-    "static/media/koridapizza.jpg": "/amico-pro/static/media/koridapizza.c0410943aeef8476cbd0.jpg",
     "static/media/vichina.jpg": "/amico-pro/static/media/vichina.5374db6ab380c894d3c3.jpg",
     "static/media/limonad.png": "/amico-pro/static/media/limonad.d9e2e648893dae872b49.png",
     "static/media/havov.jpg": "/amico-pro/static/media/havov.5f63d9354a0a7b2c0d95.jpg",
@@ -101,11 +101,11 @@
     "static/media/slick.ttf": "/amico-pro/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/amico-pro/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amico-pro/index.html",
-    "main.10215461.css.map": "/amico-pro/static/css/main.10215461.css.map",
-    "main.f7ce51ba.js.map": "/amico-pro/static/js/main.f7ce51ba.js.map"
+    "main.74b728c9.css.map": "/amico-pro/static/css/main.74b728c9.css.map",
+    "main.4ac9a457.js.map": "/amico-pro/static/js/main.4ac9a457.js.map"
   },
   "entrypoints": [
-    "static/css/main.10215461.css",
-    "static/js/main.f7ce51ba.js"
+    "static/css/main.74b728c9.css",
+    "static/js/main.4ac9a457.js"
   ]
 }
