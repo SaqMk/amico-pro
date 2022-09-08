@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amico-pro/static/css/main.1bf57af7.css",
-    "main.js": "/amico-pro/static/js/main.e721aa63.js",
+    "main.css": "/amico-pro/static/css/main.7a34aba4.css",
+    "main.js": "/amico-pro/static/js/main.33d75e9b.js",
     "static/media/zakuski.png": "/amico-pro/static/media/zakuski.fd6fac591d127df10069.png",
     "static/media/cezar.png": "/amico-pro/static/media/cezar.fe8d77ec0eac4fb1cbdb.png",
     "static/media/pizza.png": "/amico-pro/static/media/pizza.98c3c898338f4618275b.png",
@@ -101,11 +101,11 @@
     "static/media/slick.ttf": "/amico-pro/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/amico-pro/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amico-pro/index.html",
-    "main.1bf57af7.css.map": "/amico-pro/static/css/main.1bf57af7.css.map",
-    "main.e721aa63.js.map": "/amico-pro/static/js/main.e721aa63.js.map"
+    "main.7a34aba4.css.map": "/amico-pro/static/css/main.7a34aba4.css.map",
+    "main.33d75e9b.js.map": "/amico-pro/static/js/main.33d75e9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bf57af7.css",
-    "static/js/main.e721aa63.js"
+    "static/css/main.7a34aba4.css",
+    "static/js/main.33d75e9b.js"
   ]
 }
