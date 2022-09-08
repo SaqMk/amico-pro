@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/amico-pro/static/css/main.7a34aba4.css",
-    "main.js": "/amico-pro/static/js/main.33d75e9b.js",
+    "main.js": "/amico-pro/static/js/main.8897804a.js",
     "static/media/zakuski.png": "/amico-pro/static/media/zakuski.fd6fac591d127df10069.png",
     "static/media/cezar.png": "/amico-pro/static/media/cezar.fe8d77ec0eac4fb1cbdb.png",
-    "static/media/pizza.png": "/amico-pro/static/media/pizza.98c3c898338f4618275b.png",
     "static/media/zeytun.png": "/amico-pro/static/media/zeytun.6201523f7d4e930ac4fd.png",
     "static/media/msexen.png": "/amico-pro/static/media/msexen.615a64982ffb3f2111a5.png",
     "static/media/asortipizza.png": "/amico-pro/static/media/asortipizza.fc186e9e9d3c5b4e1096.png",
@@ -94,6 +93,7 @@
     "static/media/freshkivi.jpg": "/amico-pro/static/media/freshkivi.76f8dbf5a5869e22c678.jpg",
     "static/media/vermunt.png": "/amico-pro/static/media/vermunt.3d9a19c769e01ae3abe3.png",
     "static/media/freshbanan.webp": "/amico-pro/static/media/freshbanan.f18919917280256f9e17.webp",
+    "static/media/pizza.webp": "/amico-pro/static/media/pizza.de85cbb11b8894ce9a6f.webp",
     "static/media/freshgazar.jpg": "/amico-pro/static/media/freshgazar.d5dfd84b81970c30053f.jpg",
     "static/media/grechka.jpg": "/amico-pro/static/media/grechka.7239dee684361c9e21d5.jpg",
     "static/media/slick.svg": "/amico-pro/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -102,10 +102,10 @@
     "static/media/slick.woff": "/amico-pro/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amico-pro/index.html",
     "main.7a34aba4.css.map": "/amico-pro/static/css/main.7a34aba4.css.map",
-    "main.33d75e9b.js.map": "/amico-pro/static/js/main.33d75e9b.js.map"
+    "main.8897804a.js.map": "/amico-pro/static/js/main.8897804a.js.map"
   },
   "entrypoints": [
     "static/css/main.7a34aba4.css",
-    "static/js/main.33d75e9b.js"
+    "static/js/main.8897804a.js"
   ]
 }
