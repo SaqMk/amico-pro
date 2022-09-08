@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/amico-pro/static/css/main.74b728c9.css",
-    "main.js": "/amico-pro/static/js/main.4ac9a457.js",
-    "static/media/zakuski.png": "/amico-pro/static/media/zakuski.fd6fac591d127df10069.png",
+    "main.css": "/amico-pro/static/css/main.9e3ac8bb.css",
+    "main.js": "/amico-pro/static/js/main.7dbf691e.js",
     "static/media/cezar.png": "/amico-pro/static/media/cezar.fe8d77ec0eac4fb1cbdb.png",
     "static/media/zeytun.png": "/amico-pro/static/media/zeytun.6201523f7d4e930ac4fd.png",
     "static/media/msexen.png": "/amico-pro/static/media/msexen.615a64982ffb3f2111a5.png",
@@ -55,6 +54,7 @@
     "static/media/img2.jpg": "/amico-pro/static/media/img2.6149c9b82ac992c6bb61.jpg",
     "static/media/cvacexlolikov.png": "/amico-pro/static/media/cvacexlolikov.8b9525598542b59088cc.png",
     "static/media/kuatropizza.png": "/amico-pro/static/media/kuatropizza.a51b49547dc749975dc3.png",
+    "static/media/zakuski.png": "/amico-pro/static/media/zakuski.5eb4e46dd0b4173498f3.png",
     "static/media/freshxndzorkivi.jfif": "/amico-pro/static/media/freshxndzorkivi.ce40c22b55c7846e58f5.jfif",
     "static/media/panirner.png": "/amico-pro/static/media/panirner.76b580b56412ed7d8624.png",
     "static/media/haviburger.png": "/amico-pro/static/media/haviburger.2e83dcf7230afee73903.png",
@@ -101,11 +101,11 @@
     "static/media/slick.ttf": "/amico-pro/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/amico-pro/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amico-pro/index.html",
-    "main.74b728c9.css.map": "/amico-pro/static/css/main.74b728c9.css.map",
-    "main.4ac9a457.js.map": "/amico-pro/static/js/main.4ac9a457.js.map"
+    "main.9e3ac8bb.css.map": "/amico-pro/static/css/main.9e3ac8bb.css.map",
+    "main.7dbf691e.js.map": "/amico-pro/static/js/main.7dbf691e.js.map"
   },
   "entrypoints": [
-    "static/css/main.74b728c9.css",
-    "static/js/main.4ac9a457.js"
+    "static/css/main.9e3ac8bb.css",
+    "static/js/main.7dbf691e.js"
   ]
 }
